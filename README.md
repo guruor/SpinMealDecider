@@ -34,3 +34,7 @@ graph LR
     F --> H[dub_co_client 🔗]
     F --> I[spin_wheel_helper 🎡]
 ```
+
+## Setup Instructions
+
+For detailed instructions on setting up the project for development and running it locally or within a Docker environment, please refer to [DEVELOPMENT.md](DEVELOPMENT.md).

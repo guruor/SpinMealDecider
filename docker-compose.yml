@@ -1,0 +1,13 @@
+services:
+  spinmealdecider:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    volumes:
+      - .:/app
+    environment:
+      - PYTHONPATH=/app/src
+    env_file:
+      - .env
+    # command: python -m unittest discover -s src/test -p "test_*.py" -vvv
+    command: python src/main.py
