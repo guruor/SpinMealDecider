@@ -20,6 +20,17 @@ The SpinMealDecider project automates the following processes:
 2. **URL Creation:** Generate dynamic URLs to display these options in a spin-wheel format using [Unfair Spin Wheel](https://unfair.spin-wheel.click). 🔄🌐
 3. **URL Shortening:** Use `dub.co` API to shorten these URLs for convenient sharing. 📪✂️
 
+### Sample Google Sheet Format and Expected Outcome
+
+Below is an example showing how your Google Sheet should be structured for each meal. Each sheet should have `label` and `weight` columns. Alongside is a sample outcome demonstrating what the spin wheel URL looks like once generated:
+
+<div style="display: flex; justify-content: space-around;">
+  <img src="./screenshots/sample_google_sheet_screenshot.png" alt="Sample Sheet Format" width="45%" style="margin-right: 10px;">
+  <img src="./screenshots/sample_output_url_screenshot.png" alt="Sample Output URL" width="45%">
+</div>
+
+- **Sample Spin Wheel URL:** [Unfair Spin Wheel](https://unfair.spin-wheel.click)
+
 ### Solution Architecture 🏗️
 
 ```mermaid
