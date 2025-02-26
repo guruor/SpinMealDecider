@@ -25,8 +25,8 @@ The SpinMealDecider project automates the following processes:
 Below is an example showing how your Google Sheet should be structured for each meal. Each sheet should have `label` and `weight` columns. Alongside is a sample outcome demonstrating what the spin wheel URL looks like once generated:
 
 <div style="display: flex; justify-content: space-around;">
-  <img src="./screenshots/sample_google_sheet_screenshot.png" alt="Sample Sheet Format" width="45%" style="margin-right: 10px;">
-  <img src="./screenshots/sample_output_url_screenshot.png" alt="Sample Output URL" width="45%">
+  <img src="./screenshots/sample_google_sheet_screenshot.png" alt="Sample Sheet Format" width="45%" height="500px" style="margin-right: 10px;">
+  <img src="./screenshots/sample_output_url_screenshot.png" alt="Sample Output URL" width="45%" height="600px">
 </div>
 
 - **Sample Spin Wheel URL:** [Unfair Spin Wheel](https://unfair.spin-wheel.click)
