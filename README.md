@@ -29,8 +29,6 @@ Below is an example showing how your Google Sheet should be structured for each 
   <img src="./screenshots/sample_output_url_screenshot.png" alt="Sample Output URL" width="45%" height="600px">
 </div>
 
-- **Sample Spin Wheel URL:** [Unfair Spin Wheel](https://unfair.spin-wheel.click)
-
 ### Solution Architecture 🏗️
 
 ```mermaid
